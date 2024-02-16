@@ -1,1 +1,1 @@
-Hi, I’m @Zappy86, learning Python... or trying to
+Hi, I’m @Zappy86, learning to code... or trying to
